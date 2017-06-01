@@ -1,0 +1,22 @@
+.main{
+    margin-top: 5em; 
+}
+h1{
+    color: white;
+    text-shadow: 0px 0px 30px black;
+}
+h3{
+    color: white;
+    text-shadow: 0px 0px 10px black;
+}
+html { 
+  background: url(bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.well{
+    background: rgba(245, 245, 245, 0.5);
+    border: 1px solid rgba(227, 227, 227, 0.5);
+}
