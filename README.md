@@ -3,4 +3,4 @@
 Big letters for everyone.
 Transforms text to Emoji-type of text using :regional_indicator: emoji.
 
-**IT WORKS ONLY WITH LOWERCASE LETTERS AND SPACES**
+**IT WORKS ONLY WITH LOWERCASE LETTERS, NUMBERS, AND SPACES**
